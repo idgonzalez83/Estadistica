@@ -1,0 +1,17 @@
+Coke	Coke	Sprite
+Diet Coke	Sprite	Coke
+Pepsi	Pepsi	Diet Coke
+Diet Coke	Coke	Coke
+Coke	Pepsi	Coke
+Coke	Sprite	Diet Coke
+Dr. Pepper	Dr. Pepper	Coke
+Diet Coke	Pepsi	Coke
+Pepsi	Diet Coke	Coke
+Pepsi	Pepsi	Sprite
+Coke	Coke	Coke
+Dr. Pepper	Coke	Coke
+Diet Coke	Pepsi	Pepsi
+Diet Coke	Pepsi	Pepsi
+Pepsi	Coke	Dr. Pepper
+Sprite	Coke	Coke
+Pepsi	Dr. Pepper	
