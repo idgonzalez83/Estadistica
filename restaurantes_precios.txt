@@ -1,0 +1,301 @@
+Restaurante	Calidad	Precio
+1	Buena	18
+2	Muy buena	22
+3	Buena	28
+4	Excelente	38
+5	Muy buena	33
+6	Buena	28
+7	Muy buena	19
+8	Muy buena	11
+9	Muy buena	23
+10	Buena	13
+11	Muy buena	23
+12	Excelente	44
+13	Muy buena	23
+14	Muy buena	37
+15	Excelente	26
+16	Muy buena	28
+17	Muy buena	28
+18	Buena	19
+19	Muy buena	29
+20	Muy buena	24
+21	Muy buena	23
+22	Muy buena	27
+23	Buena	20
+24	Muy buena	29
+25	Muy buena	38
+26	Excelente	30
+27	Buena	17
+28	Muy buena	12
+29	Muy buena	37
+30	Buena	20
+31	Muy buena	30
+32	Muy buena	20
+33	Muy buena	28
+34	Buena	29
+35	Buena	27
+36	Muy buena	30
+37	Muy buena	39
+38	Muy buena	13
+39	Buena	18
+40	Excelente	25
+41	Excelente	42
+42	Muy buena	29
+43	Muy buena	26
+44	Muy buena	10
+45	Muy buena	20
+46	Muy buena	28
+47	Muy buena	15
+48	Muy buena	33
+49	Buena	16
+50	Muy buena	24
+51	Buena	16
+52	Muy buena	11
+53	Buena	29
+54	Muy buena	10
+55	Buena	18
+56	Buena	16
+57	Buena	14
+58	Buena	17
+59	Muy buena	21
+60	Excelente	33
+61	Muy buena	24
+62	Muy buena	13
+63	Buena	17
+64	Excelente	40
+65	Muy buena	32
+66	Muy buena	21
+67	Buena	11
+68	Buena	23
+69	Muy buena	36
+70	Buena	27
+71	Muy buena	30
+72	Muy buena	37
+73	Muy buena	19
+74	Excelente	38
+75	Muy buena	12
+76	Buena	19
+77	Muy buena	46
+78	Buena	17
+79	Buena	20
+80	Buena	26
+81	Excelente	35
+82	Muy buena	13
+83	Muy buena	20
+84	Excelente	43
+85	Muy buena	37
+86	Buena	18
+87	Buena	24
+88	Buena	35
+89	Muy buena	26
+90	Excelente	31
+91	Excelente	38
+92	Muy buena	25
+93	Muy buena	33
+94	Muy buena	14
+95	Muy buena	37
+96	Excelente	30
+97	Excelente	32
+98	Muy buena	17
+99	Muy buena	26
+100	Excelente	48
+101	Muy buena	33
+102	Muy buena	30
+103	Buena	14
+104	Muy buena	16
+105	Muy buena	24
+106	Excelente	32
+107	Excelente	46
+108	Muy buena	39
+109	Excelente	49
+110	Excelente	30
+111	Buena	14
+112	Muy buena	38
+113	Excelente	41
+114	Buena	29
+115	Excelente	23
+116	Muy buena	32
+117	Buena	22
+118	Buena	26
+119	Excelente	36
+120	Buena	19
+121	Muy buena	38
+122	Excelente	21
+123	Muy buena	21
+124	Muy buena	26
+125	Buena	23
+126	Muy buena	21
+127	Muy buena	10
+128	Excelente	29
+129	Muy buena	34
+130	Buena	29
+131	Muy buena	20
+132	Excelente	26
+133	Buena	26
+134	Muy buena	22
+135	Excelente	30
+136	Buena	10
+137	Muy buena	41
+138	Buena	26
+139	Excelente	47
+140	Muy buena	37
+141	Buena	24
+142	Buena	28
+143	Muy buena	23
+144	Muy buena	13
+145	Excelente	32
+146	Excelente	13
+147	Muy buena	31
+148	Muy buena	11
+149	Buena	19
+150	Muy buena	31
+151	Muy buena	39
+152	Muy buena	19
+153	Muy buena	31
+154	Muy buena	39
+155	Excelente	33
+156	Muy buena	26
+157	Muy buena	42
+158	Muy buena	29
+159	Muy buena	14
+160	Excelente	34
+161	Muy buena	23
+162	Muy buena	21
+163	Muy buena	13
+164	Excelente	48
+165	Muy buena	28
+166	Excelente	48
+167	Muy buena	36
+168	Muy buena	10
+169	Buena	14
+170	Excelente	44
+171	Buena	22
+172	Excelente	36
+173	Excelente	48
+174	Buena	15
+175	Excelente	21
+176	Muy buena	26
+177	Buena	25
+178	Muy buena	38
+179	Excelente	34
+180	Muy buena	45
+181	Muy buena	31
+182	Muy buena	24
+183	Muy buena	31
+184	Buena	18
+185	Buena	29
+186	Muy buena	27
+187	Buena	21
+188	Muy buena	33
+189	Muy buena	17
+190	Muy buena	13
+191	Buena	28
+192	Muy buena	26
+193	Excelente	27
+194	Excelente	34
+195	Muy buena	32
+196	Muy buena	23
+197	Buena	16
+198	Muy buena	24
+199	Buena	10
+200	Muy buena	21
+201	Muy buena	16
+202	Muy buena	35
+203	Muy buena	18
+204	Muy buena	23
+205	Muy buena	24
+206	Muy buena	23
+207	Excelente	47
+208	Buena	17
+209	Muy buena	34
+210	Muy buena	19
+211	Buena	31
+212	Muy buena	31
+213	Muy buena	20
+214	Buena	23
+215	Buena	26
+216	Excelente	48
+217	Muy buena	20
+218	Muy buena	29
+219	Muy buena	18
+220	Muy buena	26
+221	Buena	10
+222	Buena	17
+223	Excelente	41
+224	Excelente	42
+225	Excelente	48
+226	Excelente	25
+227	Muy buena	23
+228	Muy buena	39
+229	Buena	25
+230	Buena	24
+231	Buena	19
+232	Muy buena	34
+233	Excelente	30
+234	Excelente	43
+235	Muy buena	20
+236	Muy buena	25
+237	Muy buena	23
+238	Buena	27
+239	Excelente	31
+240	Muy buena	28
+241	Muy buena	21
+242	Muy buena	15
+243	Excelente	47
+244	Muy buena	10
+245	Buena	27
+246	Buena	23
+247	Buena	16
+248	Buena	25
+249	Muy buena	14
+250	Buena	16
+251	Buena	19
+252	Buena	20
+253	Muy buena	15
+254	Muy buena	19
+255	Muy buena	36
+256	Excelente	29
+257	Excelente	38
+258	Buena	15
+259	Buena	16
+260	Muy buena	27
+261	Buena	24
+262	Buena	10
+263	Muy buena	27
+264	Excelente	22
+265	Muy buena	45
+266	Muy buena	22
+267	Buena	17
+268	Muy buena	32
+269	Muy buena	22
+270	Muy buena	35
+271	Excelente	34
+272	Excelente	27
+273	Excelente	31
+274	Excelente	21
+275	Buena	15
+276	Excelente	13
+277	Excelente	36
+278	Excelente	39
+279	Muy buena	41
+280	Excelente	23
+281	Muy buena	39
+282	Buena	13
+283	Excelente	43
+284	Muy buena	33
+285	Buena	29
+286	Buena	14
+287	Muy buena	20
+288	Muy buena	16
+289	Buena	18
+290	Excelente	40
+291	Buena	20
+292	Muy buena	31
+293	Buena	27
+294	Excelente	37
+295	Muy buena	26
+296	Muy buena	35
+297	Buena	21
+298	Excelente	37
+299	Muy buena	26
+300	Buena	17
