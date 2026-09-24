@@ -1,0 +1,51 @@
+Ciudad	Ingreso mediano
+Pelham, AL	66772,00
+Juneau, AK	84101,00
+Paradise Valley, AZ	138192,00
+Fayetteville, AR	40835,00
+Monterey Park, CA	57419,00
+Lone Tree, CO	116761,00
+Manchester, CT	64828,00
+Hockessin, DE	115124,00
+St. Augustine, FL	47748,00
+Vinings, GA	73103,00
+Kapaa, HI	62546,00
+Meridian, ID	62899,00
+Schaumburg, IL	73824,00
+Fishers, IN	87043,00
+Council Bluffs, IA	46844,00
+Lenexa, KS	76505,00
+Georgetown, KY	58709,00
+Bossier City, LA	47051,00
+South Portland, ME	56472,00
+Rockville, MD	100158,00
+Waltham, MA	75106,00
+Farmington Hills, MI	71154,00
+Woodbury, MN	99657,00
+Olive Branch, MS	62958,00
+St. Peters, MO	57728,00
+Bozeman, MT	49303,00
+Papillion, NE	79131,00
+Sparks, NV	54230,00
+Nashua, NH	66872,00
+North Arlington, NJ	73885,00
+Rio Rancho, NM	58982,00
+Valley Stream, NY	88693,00
+Concord, NC	54579,00
+Dickinson, ND	71866,00
+Wooster, OH	43054,00
+Mustang, OK	66714,00
+Beaverton, OR	58785,00
+Lower Merion, PA	117438,00
+Warwick, RI	63414,00
+Mauldin, SC	57480,00
+Rapid City, SD	47788,00
+Franklin, TN	82334,00
+Allen, TX	104524,00
+Orem, UT	54515,00
+Colchester, VT	69181,00
+Reston, VA	112722,00
+Mercer Island, WA	128484,00
+Morgantown, WV	38060,00
+New Berlin, WI	74983,00
+Cheyenne, WY	56593,00
