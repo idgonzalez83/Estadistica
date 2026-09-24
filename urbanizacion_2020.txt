@@ -1,0 +1,182 @@
+Pais	Codigo	Urbanizacion_2020	iso_alpha
+Burundi	108	13.708	BDI
+Comoros	174	29.38	COM
+Djibouti	262	78.062	DJI
+Eritrea	232	41.347	ERI
+Ethiopia	231	21.695	ETH
+Kenya	404	27.995	KEN
+Madagascar	450	38.534	MDG
+Malawi	454	17.427	MWI
+Mauritius	480	40.76	MUS
+Mozambique	508	37.074	MOZ
+Rwanda	646	17.432	RWA
+Seychelles	690	57.546	SYC
+Somalia	706	46.141	SOM
+South Sudan	728	20.199	SSD
+Uganda	800	24.954	UGA
+United Republic of Tanzania	834	35.227	TZA
+Zambia	894	44.629	ZMB
+Zimbabwe	716	32.242	ZWE
+Angola	24	66.825	AGO
+Cameroon	120	57.56	CMR
+Central African Republic	140	42.198	CAF
+Chad	148	23.52	TCD
+Congo	178	67.829	COG
+Democratic Republic of the Congo	180	45.638	COD
+Equatorial Guinea	226	73.1	GNQ
+Gabon	266	90.092	GAB
+Sao Tome and Principe	678	74.354	STP
+Algeria	12	73.733	DZA
+Egypt	818	42.783	EGY
+Libya	434	80.691	LBY
+Morocco	504	63.532	MAR
+Sudan	729	35.253	SDN
+Tunisia	788	69.568	TUN
+Botswana	72	70.877	BWA
+Lesotho	426	29.028	LSO
+Namibia	516	52.033	NAM
+South Africa	710	67.354	ZAF
+Benin	204	48.415	BEN
+Burkina Faso	854	30.607	BFA
+Cabo Verde	132	66.652	CPV
+Côte d'Ivoire	384	51.706	CIV
+Gambia	270	62.582	GMB
+Ghana	288	57.349	GHA
+Guinea	324	36.875	GIN
+Guinea-Bissau	624	44.196	GNB
+Liberia	430	52.089	LBR
+Mali	466	43.909	MLI
+Mauritania	478	55.327	MRT
+Niger	562	16.626	NER
+Nigeria	566	51.958	NGA
+Senegal	686	48.122	SEN
+Sierra Leone	694	42.923	SLE
+Togo	768	42.8	TGO
+China	156	61.428	CHN
+Dem. People's Republic of Korea	408	62.381	PRK
+Japan	392	91.782	JPN
+Mongolia	496	68.657	MNG
+Republic of Korea	410	81.414	KOR
+Kazakhstan	398	57.671	KAZ
+Kyrgyzstan	417	36.856	KGZ
+Tajikistan	762	27.506	TJK
+Turkmenistan	795	52.516	TKM
+Uzbekistan	860	50.416	UZB
+Afghanistan	4	26.026	AFG
+Bangladesh	50	38.177	BGD
+Bhutan	64	42.316	BTN
+India	356	34.926	IND
+Iran (Islamic Republic of)	364	75.874	IRN
+Maldives	462	40.669	MDV
+Nepal	524	20.576	NPL
+Pakistan	586	37.165	PAK
+Sri Lanka	144	18.713	LKA
+Brunei Darussalam	96	78.25	BRN
+Cambodia	116	24.232	KHM
+Indonesia	360	56.641	IDN
+Lao People's Democratic Republic	418	36.29	LAO
+Malaysia	458	77.16	MYS
+Myanmar	104	31.141	MMR
+Philippines	608	47.408	PHL
+Singapore	702	100.0	SGP
+Thailand	764	51.43	THA
+Timor-Leste	626	31.32	TLS
+Viet Nam	704	37.34	VNM
+Armenia	51	63.313	ARM
+Azerbaijan	31	56.397	AZE
+Bahrain	48	89.506	BHR
+Cyprus	196	66.821	CYP
+Georgia	268	59.453	GEO
+Iraq	368	70.893	IRQ
+Israel	376	92.587	ISR
+Jordan	400	91.418	JOR
+Kuwait	414	100.0	KWT
+Lebanon	422	88.925	LBN
+Oman	512	86.276	OMN
+Qatar	634	99.235	QAT
+Saudi Arabia	682	84.287	SAU
+State of Palestine	275	76.719	PSE
+Syrian Arab Republic	760	55.475	SYR
+Turkey	792	76.105	TUR
+United Arab Emirates	784	87.048	ARE
+Yemen	887	37.908	YEM
+Belarus	112	79.483	BLR
+Bulgaria	100	75.686	BGR
+Czechia	203	74.061	CZE
+Hungary	348	71.942	HUN
+Poland	616	60.043	POL
+Republic of Moldova	498	42.849	MDA
+Romania	642	54.194	ROU
+Russian Federation	643	74.754	RUS
+Slovakia	703	53.76	SVK
+Ukraine	804	69.608	UKR
+Denmark	208	88.116	DNK
+Estonia	233	69.229	EST
+Finland	246	85.517	FIN
+Iceland	352	93.898	ISL
+Ireland	372	63.653	IRL
+Latvia	428	68.315	LVA
+Lithuania	440	68.046	LTU
+Norway	578	82.974	NOR
+Sweden	752	87.977	SWE
+United Kingdom	826	83.903	GBR
+Albania	8	62.112	ALB
+Bosnia and Herzegovina	70	49.02	BIH
+Croatia	191	57.553	HRV
+Greece	300	79.715	GRC
+Italy	380	71.039	ITA
+Malta	470	94.744	MLT
+Montenegro	499	67.488	MNE
+Portugal	620	66.31	PRT
+San Marino	674	97.499	SMR
+Serbia	688	56.446	SRB
+Slovenia	705	55.118	SVN
+Spain	724	80.81	ESP
+TFYR Macedonia	807	58.482	MKD
+Austria	40	58.748	AUT
+Belgium	56	98.079	BEL
+France	250	80.975	FRA
+Germany	276	77.453	DEU
+Luxembourg	442	91.453	LUX
+Netherlands	528	92.236	NLD
+Switzerland	756	73.915	CHE
+Bahamas	44	83.245	BHS
+Barbados	52	31.191	BRB
+Cuba	192	77.194	CUB
+Dominican Republic	214	82.54	DOM
+Haiti	332	57.088	HTI
+Jamaica	388	56.311	JAM
+Saint Lucia	662	18.841	LCA
+Saint Vincent and the Grenadines	670	53.032	VCT
+Trinidad and Tobago	780	53.214	TTO
+Belize	84	46.025	BLZ
+Costa Rica	188	80.771	CRI
+El Salvador	222	73.444	SLV
+Guatemala	320	51.836	GTM
+Honduras	340	58.359	HND
+Mexico	484	80.731	MEX
+Nicaragua	558	59.012	NIC
+Panama	591	68.414	PAN
+Argentina	32	92.111	ARG
+Bolivia (Plurinational State of)	68	70.123	BOL
+Brazil	76	87.073	BRA
+Chile	152	87.727	CHL
+Colombia	170	81.425	COL
+Ecuador	218	64.166	ECU
+Guyana	328	26.786	GUY
+Paraguay	600	62.183	PRY
+Peru	604	78.297	PER
+Suriname	740	66.149	SUR
+Uruguay	858	95.515	URY
+Venezuela (Bolivarian Republic of)	862	88.279	VEN
+Canada	124	81.562	CAN
+United States of America	840	82.664	USA
+Australia	36	86.241	AUS
+New Zealand	554	86.699	NZL
+Fiji	242	57.247	FJI
+Papua New Guinea	598	13.345	PNG
+Solomon Islands	90	24.67	SLB
+Vanuatu	548	25.525	VUT
+Samoa	882	17.889	WSM
+Tonga	776	23.099	TON
+Tuvalu	798	64.014	TUV
