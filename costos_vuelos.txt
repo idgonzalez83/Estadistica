@@ -1,0 +1,15 @@
+Ciudad de origen	Atlanta	Salt Lake City
+Cincinnati	340,10	570,10
+Nueva York	321,60	354,60
+Chicago	291,60	465,60
+Denver	339,60	219,60
+Los Ángeles	359,60	311,60
+Seattle	384,60	297,60
+Detroit	309,60	471,60
+Filadelfia	415,60	618,40
+Washington, DC	293,60	513,60
+Miami	249,60	523,20
+San Francisco	539,60	381,60
+Las Vegas	455,60	159,60
+Phoenix	359,60	267,60
+Dallas	333,90	458,60
